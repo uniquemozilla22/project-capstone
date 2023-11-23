@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "yogeshbhattarai",
+            "name": "Yogesh Bhattarai",
+            "password": "takeo567",
+            "cart": [
+                2,
+                1,
+                3,
+                4
+            ]
+        }
+    ],
+    "products": [
+        {
+            "id": 2,
+            "name": "Google Chromecast"
+        },
+        {
+            "id": 1,
+            "name": "Apple TV"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
